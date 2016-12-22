@@ -4,7 +4,7 @@ $:.push File.expand_path('../lib', __FILE__)
 Gem::Specification.new do |s|
   s.name = 'openvas-omp'
   s.license = 'MIT'
-  s.version = '0.0.5'
+  s.version = '0.0.6'
   s.platform = Gem::Platform::RUBY
   s.authors = ["Vlatko Kosturjak", "jackdfw"]
   s.email    = 'me@example.com'
